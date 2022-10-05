@@ -16,6 +16,7 @@
 </ul>
 <br>
 
+<!--
 ![Projeto NLW](/project-images/img-1.png "Projeto NLW")
 <br><br><br>
 
@@ -29,4 +30,21 @@
 <br><br><br>
 
 ![Projeto NLW](/project-images/img-5.jpg "Projeto NLW")
+<br><br><br>      -->
+
+<img src="project-images/img-1.png" alt="Projeto NLW">
 <br><br><br>
+
+<img src="project-images/img-2.png" alt="Projeto NLW">
+<br><br><br>
+
+<div align="center">
+  <img src="project-images/img-3.jpg" alt="Projeto NLW" width="200px">
+  <br><br>
+
+  <img src="project-images/img-4.jpg" alt="Projeto NLW" width="200px">
+  <br><br>
+  
+  <img src="project-images/img-5.jpg" alt="Projeto NLW" width="200px">
+</div>
+
