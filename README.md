@@ -2,15 +2,19 @@
 
 <p align="left">Criação de uma plataforma para encontrar seu duo!<p>
 
+<p align="left">Plataforma que ajuda gamers a encontrar um parceiro ou parceira para jogar online seu game favorito, conectado a Twitch. Desenvolvido em web e mobile.<p>
+
 ## Tecnologias
 <ul>
   <li>JavaScript</li>
   <li>TypeScript</li>
   <li>React</li>
   <li>React Native</li>
-  <li>Prisma</li>
   <li>Tailwind CSS</li>
   <li>HTML</li>
+  <li>Prisma</li>
+  <li>Expo</li>
+  <li>Vite</li>
 </ul>
 <br>
 
