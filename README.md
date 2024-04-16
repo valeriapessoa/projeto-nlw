@@ -6,7 +6,6 @@
 
 ## Tecnologias
 <ul>
-  <li>JavaScript</li>
   <li>TypeScript</li>
   <li>React</li>
   <li>React Native</li>
